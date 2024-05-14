@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.demo{
+    color: blue;
+    background-color:  green;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: yellow;
+}

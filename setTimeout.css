@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.demo{
+    color: aqua;
+    background-color: blue;
+    height: 200px;
+    width: 240px;
+    
+}
+#btn{
+    font-size: 50px;
+}

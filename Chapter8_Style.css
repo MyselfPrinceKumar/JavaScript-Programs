@@ -1,0 +1,32 @@
+*{
+    margin: 2px;
+    padding: 5px;
+    
+}
+#bulb{
+    height: 90px;
+    width: 90px;
+    background-color: aqua;
+}
+#first{
+    color: blue;
+    font-size: 50px;
+}
+#second{
+    color: blue;
+    font-size: 50px;
+    mask-repeat: repeat-y;
+    }
+.yellow{
+    background-color: yellow;
+    color: white;
+  }
+  
+  .red{
+    background-color: red;
+    color: white;
+  }
+  
+  .text-dark{
+    color: black;
+  }

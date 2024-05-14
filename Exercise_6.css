@@ -1,0 +1,21 @@
+.ToDo {
+    text-align: center;
+    background-color: rgba(189, 192, 192, 0.308);
+    color: blue;
+}
+
+#inp1 {
+    size: 40px;
+    font-size: 40px;
+    margin: 5px;
+}
+
+#inp2 {
+    size: 40px;
+    font-size: 40px;
+    margin: 5px;
+}
+
+#btn {
+    font-size: 30px;
+}
